@@ -1,0 +1,11 @@
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.exe
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.deps.json
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.runtimeconfig.json
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.runtimeconfig.dev.json
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.dll
+D:\Documentos\C#\CarRental\CarRental\bin\Debug\netcoreapp3.0\CarRental.pdb
+D:\Documentos\C#\CarRental\CarRental\obj\Debug\netcoreapp3.0\CarRental.csprojAssemblyReference.cache
+D:\Documentos\C#\CarRental\CarRental\obj\Debug\netcoreapp3.0\CarRental.AssemblyInfoInputs.cache
+D:\Documentos\C#\CarRental\CarRental\obj\Debug\netcoreapp3.0\CarRental.AssemblyInfo.cs
+D:\Documentos\C#\CarRental\CarRental\obj\Debug\netcoreapp3.0\CarRental.dll
+D:\Documentos\C#\CarRental\CarRental\obj\Debug\netcoreapp3.0\CarRental.pdb
